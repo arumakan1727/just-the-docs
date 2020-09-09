@@ -5,6 +5,11 @@
   max-width: 1200px;
 }
 
+pre.highlight, .highlight code {
+    background: #1f1f1f;
+    font-family: Hack, monospace;
+}
+
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
